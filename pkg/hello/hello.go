@@ -5,9 +5,9 @@ import (
 )
 
 func Hello() string {
-	return quote.HelloV3()
+	return quote.HelloV3() + "v2"
 }
 
 func Proverb() string {
-	return quote.Concurrency()
+	return quote.Concurrency() + "v2"
 }
