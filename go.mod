@@ -1,4 +1,4 @@
-module github.com/boolka/gohello
+module github.com/boolka/gohello/v2
 
 go 1.23.4
 
